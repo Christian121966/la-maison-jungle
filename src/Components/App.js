@@ -1,4 +1,4 @@
-import Banner from './Components/Banner'
+import Banner from './Banner'
 
 function App () {
   return <Banner />
